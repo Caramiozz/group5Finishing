@@ -2,16 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <?php 
     
     // We start a session so we can add functionality to the websites login system.
